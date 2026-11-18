@@ -1,0 +1,10 @@
+{
+  "appId": "com.jstudio.ghosttranslation",
+  "appName": "Ghost Translation",
+  "webDir": "www",
+  "backgroundColor": "#ffffff",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "SystemBars": { "insetsHandling": "css", "initialViewportFitValueHint": "cover" }
+  }
+}

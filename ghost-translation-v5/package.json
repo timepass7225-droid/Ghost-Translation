@@ -1,0 +1,13 @@
+{
+  "name": "ghost-translation",
+  "version": "5.0.0",
+  "private": true,
+  "description": "Ghost Translation - fast, simple translator",
+  "dependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/cli": "^8.0.0",
+    "@capacitor/core": "^8.0.0",
+    "@capacitor-community/text-to-speech": "^8.0.0",
+    "@capgo/capacitor-speech-recognition": "^8.0.0"
+  }
+}
